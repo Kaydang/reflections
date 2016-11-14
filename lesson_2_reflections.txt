@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+ Initializing it takes an exisiting project or directory and imports it into git so that you may track the project.
