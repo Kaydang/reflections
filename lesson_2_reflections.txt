@@ -1,2 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
  Initializing it takes an exisiting project or directory and imports it into git so that you may track the project.
+
+ How can you use the staging area to make sure you have one commit per logical change?
+ You can compare the staging area to the working area and repository before making changes, therefore verifying your commits for logical changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want different versions of your file that is not for the main file you can use branches. Branches will keep "experimental" files separate from your main files so you don't lose all your changes. It's  branch off from the "linear" changes.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help to visualize where the main branches are and which files branches off from it.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together allows you to combine the same project with different designs together. The diagram will help to show the parent of files
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auto merge will merge your projects automatically without you requesting it, so when files get big, it will be saved, however this can cause it to merge files you may not want together.
+
